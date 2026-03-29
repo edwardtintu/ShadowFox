@@ -1,2 +1,10 @@
-# ShadowFox
-Collection of Java projects built during the ShadowFox Internship, demonstrating problem-solving, OOP concepts, GUI development, and backend system design.
+ShadowFox Java Development Internship
+
+This repository contains all tasks completed as part of the ShadowFox Java Development Internship.
+
+Levels:
+- Beginner
+- Intermediate
+- Advanced
+
+Each folder contains respective project implementations.
